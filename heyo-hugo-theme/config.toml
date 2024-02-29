@@ -1,0 +1,5 @@
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.59.1"
+    publishDir = "docs"
